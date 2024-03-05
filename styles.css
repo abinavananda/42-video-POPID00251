@@ -1,0 +1,18 @@
+body {
+
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+    height: auto;
+}
+
+video {
+    height:500px;
+    margin: 0 auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  
+}
